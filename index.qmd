@@ -12,15 +12,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/bishalpatel1/
-    - icon: experience
-      text: Experience
-      href: C:\GitProfile\ErBPGit.github.io\docs\experience.html
     - icon: envelope
       text: Email
       href: mailto:bishal.patel2056@gmail.com
     - icon: code
       text: Leetcode
-      href: https://leetcode.com/codology
+      href: https://leetcode.com/u/bishal2056/
         
 ---
 <div style="text-align: justify; font-size: 22px;">
@@ -29,7 +26,7 @@ Electrical and Computer Engineer( Firmware and Embedded Speciality)
 
 I am a dedicated graduate student pursuing a Master’s in Electrical and Computer Engineering at Minnesota State University, Mankato. Alongside my studies, I serve as a Graduate Teaching Assistant, mentoring students in Microprocessors and Digital Systems Design, and as a Graduate Assistant Advisor in Student Activities.  
 
-With a Bachelor of Science in Electrical and Computer Engineering earned in 2022, my expertise lies in digital system design, microprocessors, and reliability engineering. I have hands-on experience with industry-standard tools such as Vivado, Quartus II, and Keil, and have contributed to diverse projects, including processor design, pipeline optimization, and FMEA simulations.  
+With a Bachelor of Science in Electrical and Computer Engineering earned in 2022, my expertise lies in digital system design, microprocessors, and reliability engineering. I have hands-on experience with industry-standard tools such as Vivado, Quartus II, IAR ARM, Visual Studio Code, Visual Studio, GIT Extention, Azure DevOps, Github, and Keil, and have contributed to diverse projects, including processor design, pipeline optimization, and FMEA simulations.  
 
 Originally from Nepal, I am passionate about leveraging technology to solve complex problems and aspire to drive innovation in the field of electrical and computer engineering.  
 </div>

@@ -11,14 +11,14 @@ title: "ACHIEVEMENTS"
 
 ## Education
 
-Minnesota State University, Mankato USA |
+[Minnesota State University, Mankato USA](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/msee-electrical-engineering/) |
 Master's in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0
 
-Minnesota State University, Mankato USA |
+[Minnesota State University, Mankato USA](https://www.mnsu.edu/) |
 Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4
 
 ## Experience
-1. **Graduate Teaching Assistant**
+1. [**Graduate Teaching Assistant**](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/)
 
     Assisted the professor in preparing materials to ensure smooth lab operations, including organizing resources and demonstrating example projects.  
     - Evaluated and graded students' assignments, providing constructive feedback on their work.  
@@ -29,7 +29,7 @@ Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 20
         - **Multimeters**: Provided hands-on guidance for building circuits and accurately measuring current and voltage.  
         - **Protoboards**: Taught students to assemble circuits using resistors, potentiometers, jumper wires, boards, speakers, LED lights, and other components.  
     - Ensured students comprehended lab assignments and     successfully completed tasks within deadlines.  
-2. **Graduate Assistant Student Activities**
+2. [**Graduate Assistant Student Activities**](https://www.mnsu.edu/university-life/activities-and-organizations/)
       
     - Collaborated with the Assistant Director, student workers, and the Mavs in Action team to support the University’s mission, vision, and core values.  
     - Contributed to undergraduate program planning, student advising, risk management, leadership training, group dynamics, and promotion/marketing initiatives.  
@@ -38,7 +38,7 @@ Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 20
     - Fairs for Recognized Student Organizations (RSOs).  
     - Team-building exercises and leadership workshops.  
     - Assisted the Directors of Student Activities and other Graduate Assistants with essential tasks, ensuring the success of departmental programs and events.   
-3. **Staff Firmware Engineer** 
+3. [**Staff Firmware Engineer( ITRON INC.)**](https://na.itron.com/) 
 
     *Experience Overview* 
     As a Staff Firmware Engineer at Itron, I contributed to the development of cutting-edge electricity meter firmware, working collaboratively across multidisciplinary teams.My day to day roles involved designing and debugging embedded firmware for real-time workloads, driving innovation in the utilities and smart city sectors.
@@ -65,9 +65,8 @@ Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 20
     *About Itron:*  
     Itron is a leader in transforming energy and water management through innovative solutions. By focusing on smart networks, sensors, and services, Itron enables safer, more efficient management of critical utilities, creating a sustainable and resourceful world.
 
-## Licenses & certifications
+## Licenses & Certifications
 
-1. **C Programming for Embedded Applications**
-    https://www.linkedin.com/learning/certificates/5d2f94299cb6390117fc6b365fc26c4bcbc0a95bdfee503c2e8c3fa0dd74395e?u=57684185
-2. **Advanced C Programming: Integrating C and Assembly Language** 
-    https://www.linkedin.com/learning/certificates/80be8d616c1b54fc8bdd4f7952548efa6967d4080ba0bf74624f3d3805d69d6b?u=57684185
+1. [C Programming for Embedded Applications](https://www.linkedin.com/learning/certificates/5d2f94299cb6390117fc6b365fc26c4bcbc0a95bdfee503c2e8c3fa0dd74395e?u=57684185)
+    
+2. [Advanced C Programming: Integrating C and Assembly Language](https://www.linkedin.com/learning/certificates/80be8d616c1b54fc8bdd4f7952548efa6967d4080ba0bf74624f3d3805d69d6b?u=57684185)
