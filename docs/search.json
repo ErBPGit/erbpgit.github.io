@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bishal Patel",
+    "section": "",
+    "text": "Electrical and Computer Engineer( Firmware and Embedded Speciality)\nI am a dedicated graduate student pursuing a Master’s in Electrical and Computer Engineering at Minnesota State University, Mankato. Alongside my studies, I serve as a Graduate Teaching Assistant, mentoring students in Microprocessors and Digital Systems Design, and as a Graduate Assistant Advisor in Student Activities.\nWith a Bachelor of Science in Electrical and Computer Engineering earned in 2022, my expertise lies in digital system design, microprocessors, and reliability engineering. I have hands-on experience with industry-standard tools such as Vivado, Quartus II, and Keil, and have contributed to diverse projects, including processor design, pipeline optimization, and FMEA simulations.\nOriginally from Nepal, I am passionate about leveraging technology to solve complex problems and aspire to drive innovation in the field of electrical and computer engineering."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Bishal Patel",
+    "section": "",
+    "text": "Minnesota State University, Mankato USA | Master’s in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0\nMinnesota State University, Mankato USA | Bachelor’s of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\nTIK-TAE-TOE Game using JavaScript. Click here to Play\nFaceFusion: EIgenfaces for face recognition\n\n\n\nUtilized the AT&T Database of Faces as the primary dataset for training and evaluating the face recognition model.\n\n\nImplemented a face recognition system based on the Eigenfaces algorithm, as outlined in the paper by M. A. Turk and A. P. Pentland, achieving an accuracy of 82.05%.\n\n\n\nEEG 2 Emotion: Classifying EEG signals into Emotions\n\n\nDevised EEG Based Emotion Classification system incorporating LSTM and GRU.\n\n\nIncorporated Birdy654 EEG brainwave dataset consisting of positive, negative and neutral states of preprocessed data.\n\n\nAchieved an F1 score of 96% using LSTM which was found to be better than GRU.\n\n\nCore ML Algorithm Implementations\n\n\nDecision Tree & Random Forest: Implemented decision tree from scratch for discrete and real features using both gini index and info gain as split criteria. Also applied 5 fold cross-validation and found the performance to be nearly equivalent with sklearn’s model. Implemented Ada-boost and Bagging algorithm for ensemble methods which were used in Random Forest and Linear regression implementations.\n\n\nBias Variance Tradeoff Interactive Application: Used Streamlit to deploy the demonstration on trade off between bias and variance on varying the value of ‘K’ in KNN regression model. [STREAMLIT DEMO] [CODE].\n\n\nLinear Regression: Implemented Linear Regression with Ridge and LASSO regularization using multiple methods(SGD, batch, SVD) and demonstrated the visualization of gradients in 2-D and 3-D contours.[CODE]\n\n\nImage Classification using VGG [CODE]: Built Binary class Image classification models using variations of VGG models along with data augmentation and transfer learning resulting in 20% improvement in accuracy.\n\n\n\n\n\nSkills\n\nLanguages:\nC++, Python, HTML, SQL, JavaScript, CSS\n\n\nTools and Libraries:\nGit, Pytorch, Scikit-Learn, Numpy, Pandas, Matplotlib, SciPy, OpenCV\n\n\nTechnical:\nData Structures & Algorithm, OOPs, Deep Learning, Machine Learning, Image Processing, RandomForest,Linear Regression, SVM, KMean clustering, RNN, LSTM, Transformers, RPA"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "GAllARY",
+    "section": "",
+    "text": "IITGN Green Campus, Lal minar view\n\n\n\n\n\nladakh, khardungla"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Bishal Patel",
+    "section": "",
+    "text": "Minnesota State University, Mankato USA | Master’s in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0\nMinnesota State University, Mankato USA | Bachelor’s of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Bishal Patel",
+    "section": "Experience",
+    "text": "Experience\n\nGraduate Teaching Assistant\nAssisted the professor in preparing materials to ensure smooth lab operations, including organizing resources and demonstrating example projects.\n\nEvaluated and graded students’ assignments, providing constructive feedback on their work.\n\nGuided students in the practical use of lab equipment, such as:\n\nFPGA Boards and STM Boards: Supported configuration and operation to complete lab tasks.\n\nFunction Generators: Assisted in generating various waveforms required for assignments and interpreting waveform data.\n\nOscilloscopes: Facilitated understanding and generation of Pulse Width Modulation (PWM) signals.\n\nMultimeters: Provided hands-on guidance for building circuits and accurately measuring current and voltage.\n\nProtoboards: Taught students to assemble circuits using resistors, potentiometers, jumper wires, boards, speakers, LED lights, and other components.\n\n\nEnsured students comprehended lab assignments and successfully completed tasks within deadlines.\n\n\nGraduate Assistant Student Activities\n\nCollaborated with the Assistant Director, student workers, and the Mavs in Action team to support the University’s mission, vision, and core values.\n\nContributed to undergraduate program planning, student advising, risk management, leadership training, group dynamics, and promotion/marketing initiatives.\n\nPlayed a key role in organizing and executing a variety of events, including:\n\nConcerts, camping trips, and volunteer activities.\n\nFairs for Recognized Student Organizations (RSOs).\n\nTeam-building exercises and leadership workshops.\n\nAssisted the Directors of Student Activities and other Graduate Assistants with essential tasks, ensuring the success of departmental programs and events.\n\n\nStaff Firmware Engineer\nExperience Overview As a Staff Firmware Engineer at Itron, I contributed to the development of cutting-edge electricity meter firmware, working collaboratively across multidisciplinary teams.My day to day roles involved designing and debugging embedded firmware for real-time workloads, driving innovation in the utilities and smart city sectors.\nKey Responsibilities:\n\nImplemented bare-metal firmware, including application code and low-level drivers, for both new and existing hardware platforms.\n\nDeveloped test code for verifying metering products with highly integrated analog and digital circuits.\n\nAutomated test processes by creating and debugging test scripts in C language and C#.\n\nConducted mixed-signal hardware characterization in collaboration with hardware engineers, utilizing laboratory instruments like oscilloscopes and logic analyzers.\n\nProvided technical support for manufacturing and other internal departments, contributing to regulatory and reliability compliance.\nParticipated as code reviewer for the codes updated by other engineer for any final changes and any other code breaks or pipeline breaks.\n\nTechnical Expertise:\n\nProficient in embedded C programming and debugging in environments like IAR IDE, Visual Studio Code, GIT extension for version controls, Azure DevOps for cloud engineering and date collaboration.\n\nSkilled in validating hardware interfaces (I2C, UART, SPI, etc.) and using version control systems like Git.\n\nExperienced in real-time operating systems and developing robust real-time computing solutions.\n\nHands-on experience with common laboratory instruments and developing bench test software.\n\nApplications:\n\nEmbedded computing for distributed edge intelligence.\n\nSolid-state electricity meters with revenue-grade metrology.\n\nPower quality and harmonics monitoring.\n\nAbout Itron:\nItron is a leader in transforming energy and water management through innovative solutions. By focusing on smart networks, sensors, and services, Itron enables safer, more efficient management of critical utilities, creating a sustainable and resourceful world."
+  },
+  {
+    "objectID": "about.html#licenses-certifications",
+    "href": "about.html#licenses-certifications",
+    "title": "Bishal Patel",
+    "section": "Licenses & certifications",
+    "text": "Licenses & certifications\n\nC Programming for Embedded Applications https://www.linkedin.com/learning/certificates/5d2f94299cb6390117fc6b365fc26c4bcbc0a95bdfee503c2e8c3fa0dd74395e?u=57684185\nAdvanced C Programming: Integrating C and Assembly Language https://www.linkedin.com/learning/certificates/80be8d616c1b54fc8bdd4f7952548efa6967d4080ba0bf74624f3d3805d69d6b?u=57684185"
+  }
+]
