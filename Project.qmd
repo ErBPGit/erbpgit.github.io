@@ -10,11 +10,19 @@ format: html
 <div class = "bullet">
 <ul>
 <li>Designed an automatioc system prototype that uses arduino uno, gsm, module, bluetooth, relays to control home appliances through app interface</li>
-<LI> [[ARDUINO CODE]](https://mnscu-my.sharepoint.com/:w:/g/personal/fn1599vf_go_minnstate_edu/EWl3u0L7ectGgSfodd19200BIAy4_2KxubvjnoZZt-Gb8Q?e=8jhA52): The Arduino code used to control devices is here.</li>
+<li> [[ARDUINO CODE]](https://mnscu-my.sharepoint.com/:w:/g/personal/fn1599vf_go_minnstate_edu/EWl3u0L7ectGgSfodd19200BIAy4_2KxubvjnoZZt-Gb8Q?e=8jhA52): The Arduino code used to control devices is here.</li>
 </ul>
 </div>
 
-3.  [Sports Training System]
+3.  [Sports Training System] 
+<div class = "bullet">
+<ul>
+<li>This project was designed to automate the throw of ping-pong ball from a L shaped structure with a three mode ball throwing.
+<li>1. Constant Speed and Direction.</li>
+<li>Constant Speed in different Direction.</li>
+<li>Variant Speed and Direction.</li>
+</ul>
+</div>
 
 # Skills
 

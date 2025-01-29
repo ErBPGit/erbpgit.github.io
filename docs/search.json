@@ -18,7 +18,7 @@
     "href": "Project.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\n\nMicroblaze Project\nHome Automation System\n\n\n\nDesigned an automatioc system prototype that uses arduino uno, gsm, module, bluetooth, relays to control home appliances through app interface\n\n\n[ARDUINO CODE]: The Arduino code used to control devices is here.\n\n\n\n[Sports Training System]\n\n\n\nSkills\n\nLanguages:\nC, C++, Python, CUDA, Verilog, SystemVerilog, HTML.\n\n\nMicroprocessors:\nSTM32 , EFR32, TiSOC, CC1354.\n\n\nTools and Libraries:\nGit, KeilVision, IAR ARM, Visual Studio,Atmel Studio Microchip, Arduino, Oscilloscope, Function Generator, Multimeter.\n\n\nTechnical:\nComputer Architecture and parallel processors, Design Methods, MicroProcessor(I,II), Smart Sensors, Real-Time Embedded System, Data Structures & Algorithm."
+    "text": "Projects\n\nMicroblaze Project\nHome Automation System\n\n\n\nDesigned an automatioc system prototype that uses arduino uno, gsm, module, bluetooth, relays to control home appliances through app interface\n\n\n[ARDUINO CODE]: The Arduino code used to control devices is here.\n\n\n\n[Sports Training System]\n\n\n\nThis project was designed to automate the throw of ping-pong ball from a L shaped structure with a three mode ball throwing.\n\n\nConstant Speed and Direction.\n\n\nConstant Speed in different Direction.\n\n\nVariant Speed and Direction."
   },
   {
     "objectID": "blogs.html",
