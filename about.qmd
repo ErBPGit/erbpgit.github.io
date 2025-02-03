@@ -13,6 +13,12 @@ title: "ACHIEVEMENTS"
 
 [Minnesota State University, Mankato USA](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/msee-electrical-engineering/) |
 Master's in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0
+ 
+        - ** Parallel Processing **: Computer architecture for parallel processors designed for high computation rates. Primary emphasis is on image processing, pattern recognition, etc. Performance of various systems with regard to interconnect network, fault tolerance, and programming.   
+        - ** Computer Architecture **: A treatment of computer architecture covering new technological developments, including details of multiprocessor systems. Special emphasis will be devoted to new concepts. Architectures of FPGAs and CPLDs will be explored and Hardware Description Languages such as VHDL and VERILOG will be used in project assignments.  
+        - ** Real Time Operating System**: This course introduces students the recent advances in real-time embedded systems design. Topics cover real-time scheduling approaches such as clock-driven scheduling and static and dynamic priority driven scheduling, resource handling, timing analysis, inter-task communication and synchronization, real-time operating systems (RTOS), hard and soft real-time systems, distributed real-time systems, concepts and software tools involved in the modeling, design, analysis and verification of real-time systems.  
+        - ** Design Methods **: Application of EE computer modeling and simulation tools. Design of experiments, Taguchi methods, automated data acquisition, and analysis methods.  
+
 
 [Minnesota State University, Mankato USA](https://www.mnsu.edu/) |
 Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4
