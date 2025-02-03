@@ -16,7 +16,7 @@ website:
       #   text: BLOGS
       # - href: gallery.qmd
       #   text: GALLERY
-      - href: files/BP_RESUME_11_19.pdf
+      - href: files/BP_Resume_2025.pdf
         text: RESUME
 
 format:
