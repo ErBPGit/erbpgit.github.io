@@ -14,37 +14,46 @@ title: "ACHIEVEMENTS"
 [Minnesota State University, Mankato USA](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/msee-electrical-engineering/) |
 Master's in Electrical and Computer Engineering | Aug 2024 - May 2026 | GPA : 4.0
  
-        - **Parallel Processing**: Computer architecture for parallel processors designed for high computation rates. Primary emphasis is on image processing, pattern recognition, etc. Performance of various systems with regard to interconnect network, fault tolerance, and programming.   
-        - **Computer Architecture**: A treatment of computer architecture covering new technological developments, including details of multiprocessor systems. Special emphasis will be devoted to new concepts. Architectures of FPGAs and CPLDs will be explored and Hardware Description Languages such as VHDL and VERILOG will be used in project assignments.  
-        - **Real Time Operating System**: This course introduces students the recent advances in real-time embedded systems design. Topics cover real-time scheduling approaches such as clock-driven scheduling and static and dynamic priority driven scheduling, resource handling, timing analysis, inter-task communication and synchronization, real-time operating systems (RTOS), hard and soft real-time systems, distributed real-time systems, concepts and software tools involved in the modeling, design, analysis and verification of real-time systems.  
-        - **Design Methods**: Application of EE computer modeling and simulation tools. Design of experiments, Taguchi methods, automated data acquisition, and analysis methods.  
+- **Parallel Processors**: Computer architecture for parallel processors designed for high computation rates. Primary emphasis is on image processing, pattern recognition, etc. Performance of various systems with regard to interconnect network, fault tolerance, and programming.  
+
+- **Computer Architecture**: A treatment of computer architecture covering new technological developments, including details of multiprocessor systems. Special emphasis will be devoted to new concepts. Architectures of FPGAs and CPLDs will be explored and Hardware Description Languages such as VHDL and VERILOG will be used in project assignments.
+
+- **Real Time Operating System**: This course introduces students the recent advances in real-time embedded systems design. Topics cover real-time scheduling approaches such as clock-driven scheduling and static and dynamic priority driven scheduling, resource handling, timing analysis, inter-task communication and synchronization, real-time operating systems (RTOS), hard and soft real-time systems, distributed real-time systems, concepts and software tools involved in the modeling, design, analysis and verification of real-time systems.  
+
+- **Design Methods**: Application of EE computer modeling and simulation tools. Design of experiments, Taguchi methods, automated data acquisition, and analysis methods.  
 
 
 [Minnesota State University, Mankato USA](https://www.mnsu.edu/) |
 Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 2022 | GPA : 3.4
 
-## Experience
-1. [**Graduate Teaching Assistant**](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/)
+- **Smart Censor System**: This course explains the interfacing method between a sensor and the microcontroller, describes the features and functions of several frequently used sensors, it then proceeds to explore the subject of sensor fusion, describe the algorithms how multiple sensors are used to extract correct and more useful information than each individual single sensor; finally the course also explores how a large number of sensor nodes are connected together via the wireless networking technologies to enable the monitoring and control of our environment to improve our life.
 
-    Assisted the professor in preparing materials to ensure smooth lab operations, including organizing resources and demonstrating example projects.  
-    - Evaluated and graded students' assignments, providing constructive feedback on their work.  
-    - Guided students in the practical use of lab equipment, such as:  
-        - **FPGA Boards and STM Boards**: Supported configuration and operation to complete lab tasks.  
-        - **Function Generators**: Assisted in generating various waveforms required for assignments and interpreting waveform data.  
-        - **Oscilloscopes**: Facilitated understanding and generation of Pulse Width Modulation (PWM) signals.  
-        - **Multimeters**: Provided hands-on guidance for building circuits and accurately measuring current and voltage.  
-        - **Protoboards**: Taught students to assemble circuits using resistors, potentiometers, jumper wires, boards, speakers, LED lights, and other components.  
-    - Ensured students comprehended lab assignments and     successfully completed tasks within deadlines.  
-2. [**Graduate Assistant Student Activities**](https://www.mnsu.edu/university-life/activities-and-organizations/)
-      
-    - Collaborated with the Assistant Director, student workers, and the Mavs in Action team to support the University’s mission, vision, and core values.  
-    - Contributed to undergraduate program planning, student advising, risk management, leadership training, group dynamics, and promotion/marketing initiatives.  
-    - Played a key role in organizing and executing a variety of events, including:  
-    - Concerts, camping trips, and volunteer activities.  
-    - Fairs for Recognized Student Organizations (RSOs).  
-    - Team-building exercises and leadership workshops.  
-    - Assisted the Directors of Student Activities and other Graduate Assistants with essential tasks, ensuring the success of departmental programs and events.   
-3. [**Staff Firmware Engineer( ITRON INC.)**](https://na.itron.com/) 
+- **Wireless Networking**: The features, data rate, frequency range, and operation of several wireless networking protocols such as Wi-Fi, Low Energy Bluetooth, Near Field Communication, Radio frequency Identifier (RFID), Threads, and ZigBee that can be used to implement Internet of Things (IoT) are introduced. The electrical, functional, and procedural specifications of Wi-Fi are then examined in detail. The programming and data transfer using the hardware Wi-Fi kit are carried out to demonstrate the versatility of this protocol.    
+
+- **Computer Hardware & Organization**: High-level language constructs using a selected assembly language, design alternatives of computer processor datapath and control, memory hierarchy/management unit, use of HDL in describing and verifying combinational and sequential circuits. Design of computer processor and memory system.  
+
+- **MicroProcessors I**: A course that teaches how to write computer assembly language programs, make subroutine calls, perform I/O operations, handle interrupts and resets, interface with a wide variety of peripheral chips to meet the requirements of applications.
+
+- **MicroProcessors II**: A more advanced study of microprocessors and microcontrollers in embedded system design. Use of C language in programming, interrupt interfaces such as SPI, I2C, and CAN. External memory design and on-chip program memory protection are also studied.  
+
+- **Engineering Design I, II, III, IV**: These courses covered key areas such as project planning, evaluation techniques, and computer-assisted tools for design and reporting. I developed expertise in design-to-specification techniques, feasibility analysis, and project proposals, while emphasizing creativity, teamwork, and intellectual property considerations. The courses also provided insights into ethics, reliability, environmental considerations, economic constraints, and manufacturability, culminating in the completion of design projects in collaborative team environments.
+
+- **Circuit Analysis I, II**: This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+
+- **Control Systems**: Theory and principles of linear feedback control systems. Analysis of linear control systems using conventional techniques like block diagrams, Bode plots, Nyquist plots and root-locus plots. Introduction to cascade compensation: proportional, derivative and integral compensation. State space models.
+
+- **Network Architecture**: An introduction to data communications and networks. The field encompasses local area networks, wide area networks, and wireless communication. Topics include digital signals, transmission techniques, error detection and correction, OSI model, TCP/IP model, network topologies, network protocols, and communications hardware.
+
+- **Data Structure and Algorithm**: develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+
+- **Operating Systems: Design and Implementation**: This course studies historical and current concepts and implementations of computer operating systems. Basic operating systems topics include processes, interprocess communication, interprocess synchronization, deadlock, memory allocation, segmentation, paging, resource allocation, scheduling, file systems, storage, devices, protection, security, and privacy.
+
+- **Digital System Design with Testability**: Practical aspects of design and analysis of different types of sequential machines using Verilog HDL.
+
+- **Signal and Systems**: Analysis of linear systems and signals in the time and frequency domain. Laplace and Fourier transforms. Z-transform and discrete Fourier transforms.
+
+## Experience
+1. [**Staff Firmware Engineer( ITRON INC.)**](https://na.itron.com/) 
 
     *Experience Overview* 
     As a Staff Firmware Engineer at Itron, I contributed to the development of cutting-edge electricity meter firmware, working collaboratively across multidisciplinary teams.My day to day roles involved designing and debugging embedded firmware for real-time workloads, driving innovation in the utilities and smart city sectors.
@@ -70,6 +79,27 @@ Bachelor's of Science in Electrical and Computer Engineering | Aug 2017 - May 20
 
     *About Itron:*  
     Itron is a leader in transforming energy and water management through innovative solutions. By focusing on smart networks, sensors, and services, Itron enables safer, more efficient management of critical utilities, creating a sustainable and resourceful world.
+2. [**Graduate Teaching Assistant**](https://cset.mnsu.edu/departments/electrical-and-computer-engineering-technology/)
+
+    Assisted the professor in preparing materials to ensure smooth lab operations, including organizing resources and demonstrating example projects.  
+    - Evaluated and graded students' assignments, providing constructive feedback on their work.  
+    - Guided students in the practical use of lab equipment, such as:  
+        - **FPGA Boards and STM Boards**: Supported configuration and operation to complete lab tasks.  
+        - **Function Generators**: Assisted in generating various waveforms required for assignments and interpreting waveform data.  
+        - **Oscilloscopes**: Facilitated understanding and generation of Pulse Width Modulation (PWM) signals.  
+        - **Multimeters**: Provided hands-on guidance for building circuits and accurately measuring current and voltage.  
+        - **Protoboards**: Taught students to assemble circuits using resistors, potentiometers, jumper wires, boards, speakers, LED lights, and other components.  
+    - Ensured students comprehended lab assignments and     successfully completed tasks within deadlines.  
+3. [**Graduate Assistant Student Activities**](https://www.mnsu.edu/university-life/activities-and-organizations/)
+      
+    - Collaborated with the Assistant Director, student workers, and the Mavs in Action team to support the University’s mission, vision, and core values.  
+    - Contributed to undergraduate program planning, student advising, risk management, leadership training, group dynamics, and promotion/marketing initiatives.  
+    - Played a key role in organizing and executing a variety of events, including:  
+    - Concerts, camping trips, and volunteer activities.  
+    - Fairs for Recognized Student Organizations (RSOs).  
+    - Team-building exercises and leadership workshops.  
+    - Assisted the Directors of Student Activities and other Graduate Assistants with essential tasks, ensuring the success of departmental programs and events.   
+
 
 ## Licenses & Certifications
 
