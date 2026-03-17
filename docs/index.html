@@ -128,15 +128,18 @@
     animation: fadeUp 0.8s ease 0.2s forwards;
   }
   .hero-name {
-    font-size: clamp(3rem, 7vw, 6rem);
-    font-weight: 900;
-    line-height: 1;
-    color: var(--white);
-    letter-spacing: -2px;
     opacity: 0;
     animation: fadeUp 0.8s ease 0.4s forwards;
+    display: flex;
+    flex-direction: column;
   }
-  .hero-name .accent { color: var(--neon); }
+  .hero-name .sub { font-family: var(--mono); font-size: 0.68rem; color: var(--muted); letter-spacing: 5px; text-transform: uppercase; margin-bottom: 6px; }
+  .hero-name .namerow { font-family: var(--sans); font-size: clamp(3rem, 7vw, 5.6rem); font-weight: 900; line-height: 1; letter-spacing: -2px; }
+  .hero-name .namerow .bishal { color: transparent; -webkit-text-stroke: 1px rgba(0,255,200,0.35); }
+  .hero-name .namerow .gap { display: inline-block; width: 16px; }
+  .hero-name .namerow .patel { color: var(--white); }
+  .hero-name .namerow .tel { color: var(--neon); }
+  .hero-name .neon-line { width: 100%; height: 2px; background: linear-gradient(90deg, var(--neon), transparent); margin-top: 10px; }
   .hero-title {
     font-family: var(--mono);
     font-size: 1.1rem;
@@ -415,6 +418,38 @@
   .glitch::after { color: var(--neon3); animation: glitch2 5s infinite; clip-path: polygon(0 60%, 100% 60%, 100% 80%, 0 80%); }
   @keyframes glitch1 { 0%,95%,100%{transform:translateX(0)} 96%{transform:translateX(-4px)} 98%{transform:translateX(3px)} }
   @keyframes glitch2 { 0%,93%,100%{transform:translateX(0)} 94%{transform:translateX(4px)} 97%{transform:translateX(-3px)} }
+  
+  .hero-chips {
+    position: absolute;
+    right: 40px; top: 0; bottom: 0;
+    width: 340px;
+    display: flex; align-items: center; justify-content: center;
+    pointer-events: none;
+  }
+  .chip-orbit {
+    display: flex; flex-direction: column; gap: 14px;
+    align-items: flex-start;
+  }
+  .chip {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 2px;
+    padding: 7px 16px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    background: rgba(0,255,200,0.03);
+    opacity: 0;
+    transform: translateX(30px);
+    animation: chipIn 0.5s ease calc(1.2s + var(--d)) forwards;
+    transition: border-color 0.3s, color 0.3s;
+    pointer-events: all;
+    white-space: nowrap;
+  }
+  .chip:hover { border-color: var(--neon); color: var(--neon); }
+  @keyframes chipIn {
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @media (max-width: 900px) { .hero-chips { display: none; } }
 
   /* RESPONSIVE */
   @media (max-width: 900px) {
@@ -451,7 +486,13 @@
 <section id="hero">
   <div class="hero-content">
     <div class="hero-tag">// Jr. Firmware Engineer @ Resideo Technologies</div>
-    <h1 class="hero-name glitch" data-text="Bishal Patel">Bishal <span class="accent">Patel</span></h1>
+    <h1 class="hero-name">
+      <span class="sub">// firmware engineer</span>
+      <div class="namerow">
+        <span class="bishal">Bishal</span><span class="gap"></span><span class="patel">Pa<span class="tel">tel</span></span>
+      </div>
+      <div class="neon-line"></div>
+    </h1>
     <div class="hero-title" id="hero-title"></div>
     <p class="hero-bio">Electrical &amp; Computer Engineer specializing in firmware development, embedded systems, and real-time computing. Passionate about building reliable, efficient software at the hardware-software boundary.</p>
     <div class="hero-links">
@@ -462,6 +503,23 @@
     </div>
   </div>
   <div class="hero-bg-text">FW</div>
+  <div class="hero-chips">
+    <div class="chip-orbit">
+      <span class="chip" style="--d:0s">C / C++</span>
+      <span class="chip" style="--d:0.15s">FreeRTOS</span>
+      <span class="chip" style="--d:0.3s">STM32</span>
+      <span class="chip" style="--d:0.45s">Zephyr</span>
+      <span class="chip" style="--d:0.6s">Raspberry Pi</span>
+      <span class="chip" style="--d:0.75s">I2C / SPI / UART</span>
+      <span class="chip" style="--d:0.9s">Vivado</span>
+      <span class="chip" style="--d:1.05s">Python</span>
+      <span class="chip" style="--d:1.2s">Azure DevOps</span>
+      <span class="chip" style="--d:1.35s">IAR ARM</span>
+      <span class="chip" style="--d:1.5s">Verilog</span>
+      <span class="chip" style="--d:1.65s">CUDA</span>
+    </div>
+  </div>
+  
 </section>
 
 <!-- ABOUT -->
